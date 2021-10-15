@@ -30,7 +30,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'littel_kanban.PNG',
+    img: 'little_kanban.PNG',
     title: 'Simple Kanban',
     info: 'A kanban board with four statuses - open, doing, pending and done. Users can add a new task or edit/delete the existing task by clicking the task name.',
     info2: 'Tech stack: React, react context system, css module, semantic UI',
