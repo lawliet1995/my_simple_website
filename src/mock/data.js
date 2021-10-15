@@ -20,10 +20,10 @@ export const aboutData = {
   img: 'my_profile.jpg',
   paragraphOne: 'Hi, I am Oscar.',
   paragraphTwo:
-    'I graduated from National Taiwan University with a master degree in computer science. Playing escape room games is my hobby, because I enjoy the moment of solving the puzzle and finding the hidden truth.',
+    "I graduated from National Taiwan University with a master's degree in computer science. Playing escape room games is my hobby, because I enjoy the moment of solving the puzzle and finding the hidden truth.",
   paragraphThree:
-    'I have been engaged in front-end engineering for 2 years. Currently, I am working in the Scupio Ad Network Department of  Bridgewell Corporation. I am strong in troubleshooting and capable of working independently.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+    'I have been engaged in front-end engineering for 2 years. Currently, I am working in the Scupio Ad Network Department of  Bridgewell Corporation. I am strong at troubleshooting and capable of working independently.',
+  resume: 'https://www.cakeresume.com/s--torxUFkFzI1rNKFp0J4_kA--/lawliet-tertium', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
